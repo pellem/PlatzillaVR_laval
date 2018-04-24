@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 33eec2c6d149b2d4ca1c3941b7a3a9b4
+timeCreated: 1518560740
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Building_03_Part_1
+    100004: Building_03_Part_1 1
+    100006: Building_03_Part_1 2
+    100008: Building_03_Part_10
+    100010: Building_03_Part_11
+    100012: Building_03_Part_12
+    100014: Building_03_Part_13
+    100016: Building_03_Part_14
+    100018: Building_03_Part_15
+    100020: Building_03_Part_16
+    100022: Building_03_Part_17
+    100024: Building_03_Part_18
+    100026: Building_03_Part_19
+    100028: Building_03_Part_2
+    100030: Building_03_Part_2 1
+    100032: Building_03_Part_2 2
+    100034: Building_03_Part_2 3
+    100036: Building_03_Part_20
+    100038: Building_03_Part_21
+    100040: Building_03_Part_22
+    100042: Building_03_Part_3
+    100044: Building_03_Part_3 1
+    100046: Building_03_Part_4
+    100048: Building_03_Part_5
+    100050: Building_03_Part_6
+    100052: Building_03_Part_7
+    100054: Building_03_Part_8
+    100056: Building_03_Part_9
+    400000: //RootNode
+    400002: Building_03_Part_1
+    400004: Building_03_Part_1 1
+    400006: Building_03_Part_1 2
+    400008: Building_03_Part_10
+    400010: Building_03_Part_11
+    400012: Building_03_Part_12
+    400014: Building_03_Part_13
+    400016: Building_03_Part_14
+    400018: Building_03_Part_15
+    400020: Building_03_Part_16
+    400022: Building_03_Part_17
+    400024: Building_03_Part_18
+    400026: Building_03_Part_19
+    400028: Building_03_Part_2
+    400030: Building_03_Part_2 1
+    400032: Building_03_Part_2 2
+    400034: Building_03_Part_2 3
+    400036: Building_03_Part_20
+    400038: Building_03_Part_21
+    400040: Building_03_Part_22
+    400042: Building_03_Part_3
+    400044: Building_03_Part_3 1
+    400046: Building_03_Part_4
+    400048: Building_03_Part_5
+    400050: Building_03_Part_6
+    400052: Building_03_Part_7
+    400054: Building_03_Part_8
+    400056: Building_03_Part_9
+    2300000: Building_03_Part_1
+    2300002: Building_03_Part_1 1
+    2300004: Building_03_Part_1 2
+    2300006: Building_03_Part_10
+    2300008: Building_03_Part_11
+    2300010: Building_03_Part_12
+    2300012: Building_03_Part_13
+    2300014: Building_03_Part_14
+    2300016: Building_03_Part_15
+    2300018: Building_03_Part_16
+    2300020: Building_03_Part_17
+    2300022: Building_03_Part_18
+    2300024: Building_03_Part_19
+    2300026: Building_03_Part_2
+    2300028: Building_03_Part_2 1
+    2300030: Building_03_Part_2 2
+    2300032: Building_03_Part_2 3
+    2300034: Building_03_Part_20
+    2300036: Building_03_Part_21
+    2300038: Building_03_Part_22
+    2300040: Building_03_Part_3
+    2300042: Building_03_Part_3 1
+    2300044: Building_03_Part_4
+    2300046: Building_03_Part_5
+    2300048: Building_03_Part_6
+    2300050: Building_03_Part_7
+    2300052: Building_03_Part_8
+    2300054: Building_03_Part_9
+    3300000: Building_03_Part_1
+    3300002: Building_03_Part_1 1
+    3300004: Building_03_Part_1 2
+    3300006: Building_03_Part_10
+    3300008: Building_03_Part_11
+    3300010: Building_03_Part_12
+    3300012: Building_03_Part_13
+    3300014: Building_03_Part_14
+    3300016: Building_03_Part_15
+    3300018: Building_03_Part_16
+    3300020: Building_03_Part_17
+    3300022: Building_03_Part_18
+    3300024: Building_03_Part_19
+    3300026: Building_03_Part_2
+    3300028: Building_03_Part_2 1
+    3300030: Building_03_Part_2 2
+    3300032: Building_03_Part_2 3
+    3300034: Building_03_Part_20
+    3300036: Building_03_Part_21
+    3300038: Building_03_Part_22
+    3300040: Building_03_Part_3
+    3300042: Building_03_Part_3 1
+    3300044: Building_03_Part_4
+    3300046: Building_03_Part_5
+    3300048: Building_03_Part_6
+    3300050: Building_03_Part_7
+    3300052: Building_03_Part_8
+    3300054: Building_03_Part_9
+    4300000: Building_03_Part_1
+    4300002: Building_03_Part_2
+    4300004: Building_03_Part_3
+    4300006: Building_03_Part_4
+    4300008: Building_03_Part_5
+    4300010: Building_03_Part_6
+    4300012: Building_03_Part_7
+    4300014: Building_03_Part_8
+    4300016: Building_03_Part_9
+    4300018: Building_03_Part_10
+    4300020: Building_03_Part_11
+    4300022: Building_03_Part_12
+    4300024: Building_03_Part_13
+    4300026: Building_03_Part_14
+    4300028: Building_03_Part_15
+    4300030: Building_03_Part_16
+    4300032: Building_03_Part_17
+    4300034: Building_03_Part_18
+    4300036: Building_03_Part_19
+    4300038: Building_03_Part_20
+    4300040: Building_03_Part_21
+    4300042: Building_03_Part_22
+    4300044: Building_03_Part_2
+    4300046: Building_03_Part_1
+    4300048: Building_03_Part_2
+    4300050: Building_03_Part_3
+    4300052: Building_03_Part_1
+    4300054: Building_03_Part_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
